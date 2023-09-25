@@ -1,2 +1,4 @@
 # machineLearningCasoCS
 Proyecto semestral grupal para la asignatura Fundamentos de Machine Learning.  Contempla el análisis exploratorio y modelos predictivos de regresión y clasificación con datos de partidas online del videojuego Counter Strike.
+
+La presente entrega aborda el proceso del trabajo de Machine Learning del caso Counter Strike. Se aplicó la Metodología CRISP-DM que involucra el entendimiento del negocio y los datos con su análisis exploratorio, la preparación de los datos, el modelado de modelos de clasificación y su puesta a producción en una aplicación web. En cuanto a los modelos desarrollados, se construyeron modelos de Random Forest Classifier, regresion logística y KNN. Se ha llevado a cabo su evaluación mediante la generación de predicciones y la comparación con datos reales.
